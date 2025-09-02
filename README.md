@@ -3,6 +3,18 @@
 A modern, responsive web application for tracking personal expenses, managing budgets, and visualizing financial data. Built with React, TypeScript, Vite, Supabase, and shadcn/ui.
 
 ---
+## Screenshots of Trackify
+
+- Light Mode
+  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-Light-Mode.png)
+  
+- Dark Mode
+  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-dark-mode.png)
+  
+- Mobile View
+  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-Mobile-view.png)
+
+---
 
 ## Table of Contents
 
